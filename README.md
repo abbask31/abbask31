@@ -8,7 +8,7 @@ I'm a software engineer building agentic systems, search/recommendation, and eva
 - Backend infra that makes AI features production-ready
 
 **🌱 Currently Exploring**
-- Multi-agent frameworks (LangGraph, CrewAI)
+- Multi-agent frameworks
 - Eval-driven development for agentic products
 - Full-stack surfaces for agent-generated content
 
