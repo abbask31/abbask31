@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Abbas Kazmi
 
-<!--
-**abbask31/abbask31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer building agentic systems, search/recommendation, and eval infrastructure. Currently at Adobe, where I build agent-powered search, tracing pipelines, and evaluation systems that keep LLM features reliable at scale.
 
-Here are some ideas to get you started:
+**👀 Interests**
+- Agent orchestration, evals, and observability
+- Search & recommendation systems powered by LLMs
+- Backend infra that makes AI features production-ready
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 Currently Exploring**
+- Multi-agent frameworks (LangGraph, CrewAI)
+- Eval-driven development for agentic products
+- Full-stack surfaces for agent-generated content
+
+**📫 Reach Me**
+- 💌 [Email](mailto:kazmii.abbas31@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abbaskazmii)
+- 💻 [GitHub](https://github.com/abbask31)
